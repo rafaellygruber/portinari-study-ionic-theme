@@ -20,7 +20,8 @@ npm-debug.log*
 .versions/
 coverage/
 dist/
-node_modules/
+node_modules/*
+!node_modules/@totvs
 tmp/
 temp/
 hooks/

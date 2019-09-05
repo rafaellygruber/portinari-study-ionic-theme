@@ -1,8 +1,6 @@
 // Ionic Variables and Theming. For more info, please see:
 // http://ionicframework.com/docs/theming/
 
-@import "./po.theme.scss";
-
 /** Ionic CSS Variables **/
 :root {
 
@@ -78,3 +76,6 @@
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
 }
+
+// @import "./thf.theme.scss";
+@import "node_modules/@totvs/mobile-theme/totvs.mobile.theme";
